@@ -7,3 +7,4 @@ I focused mostly on learning React and only added a little bit of CSS to create 
 This application utilizes youtubes API, it is limited to 50 requests an hour. If you suddlent see nothing showing up check the console logs and you are likely to see a 403 error due to hitting that request limit. 
 
 Vist here:
+https://xenodochial-turing-43fc9b.netlify.app/
